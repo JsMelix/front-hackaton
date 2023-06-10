@@ -1,0 +1,50 @@
+.text-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-text {
+  width: 50%;
+}
+
+.right-text {
+  width: 50%;
+}
+
+.left-text p,
+.right-text p {
+  margin: 0;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.button {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+
+
+
+

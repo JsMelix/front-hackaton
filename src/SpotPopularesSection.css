@@ -1,0 +1,34 @@
+.spot-populares-section {
+    margin-bottom: 20px;
+  }
+  
+  .spot-populares-section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .spot-populares-section table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .spot-populares-section th,
+  .spot-populares-section td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .spot-populares-section th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .spot-populares-section td {
+    font-size: 14px;
+  }
+  
+  .spot-populares-section tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  

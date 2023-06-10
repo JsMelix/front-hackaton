@@ -1,0 +1,18 @@
+.album {
+  /* Estilos para el contenedor del álbum */
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.album-image {
+  width: 200px; /* Ajusta el ancho según tus necesidades */
+  height: 150px; /* Ajusta la altura según tus necesidades */
+  object-fit: cover; /* Ajusta el ajuste de la imagen según tus necesidades */
+}
+
+
+  
